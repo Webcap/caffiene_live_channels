@@ -3,27 +3,27 @@
 	"channels": [
 		{
 			"channel_name": "Comedy Central (US)",
-			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/comedy_central.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/comedy_central.png",
 			"channel_stream": [
 				{
-					"video_quality": "576p",
-					"stream_link": "http://gamsgo.cyou:8080/kodicologne/48e237edd2/754"
+					"video_quality": "720p",
+					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/9.ts"
 				}
 			]
 		},
         {
             "channel_name": "BET",
-            "channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/bet.png",
+            "channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/bet.png",
             "channel_stream": [
                 {
-                    "video_quality": "1080p",
-                    "stream_link": "http://gamsgo.cyou:8080/kodicologne/48e237edd2/2278"
+                    "video_quality": "720p",
+                    "stream_link": "http://starshare.live:8080/live/Hanny/Hanny/7345.ts"
                 }
             ]
         },
         {
 			"channel_name": "CBS",
-			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/cbs.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/cbs.png",
 			"channel_stream": [
                 {
                     "video_quality": "1080p",
@@ -37,47 +37,51 @@
 		},
         {
             "channel_name": "MTV",
-            "channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/mtv.png",
+            "channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/mtv.png",
             "channel_stream": [
                 {
+                    "video_quality": "1080p",
+                    "stream_link": "http://iptvch.com:2082/worldiptv/8dV6wu3BVzfd9P2/191700"
+                },
+                {
                      "video_quality": "720p",
-                    "stream_link": "http://gamsgo.cyou:8080/kodicologne/48e237edd2/2344"
+                    "stream_link": "http://starshare.live:8080/live/Hanny/Hanny/158005.ts"
                 }
             ]
         },
         {
             "channel_name": "Lifetime",
-            "channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/lifetime.png",
+            "channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/lifetime.png",
             "channel_stream": [
                 {
                      "video_quality": "1080p",
-                    "stream_link": "http://gamsgo.cyou:8080/kodicologne/48e237edd2/4667"
+                    "stream_link": "http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/4667"
                 }
             ]
         },
         {
             "channel_name": "A&E",
-            "channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/aande.png",
+            "channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/aande.png",
             "channel_stream": [
                 {
                      "video_quality": "1080p",
-                    "stream_link": "http://gamsgo.cyou:8080/kodicologne/48e237edd2/2746"
+                    "stream_link": "http://starshare.live:8080/live/Hanny/Hanny/7350.ts"
                 }
             ]
         },
         {
-            "channel_name": "ABC (NY)",
-            "channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/abc.png",
+            "channel_name": "ABC",
+            "channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/abc.png",
             "channel_stream": [
                 {
                      "video_quality": "720p",
-                    "stream_link": "http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/65846"
+                    "stream_link": "http://starshare.live:8080/live/Hanny/Hanny/1006.ts"
                 }
             ]
         },
         {
             "channel_name": "AS",
-            "channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/as.png",
+            "channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/as.png",
             "channel_stream": [
                 {
                      "video_quality": "540p",
@@ -87,231 +91,231 @@
         },
         {
             "channel_name": "AMC",
-            "channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/amc.png",
+            "channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/amc.png",
             "channel_stream": [
                 {
                      "video_quality": "540p",
-                    "stream_link": "http://gamsgo.cyou:8080/kodicologne/48e237edd2/751"
+                    "stream_link": "http://starshare.live:8080/live/Hanny/Hanny/154279.ts"
                 }
             ]
         },
         {
             "channel_name": "AMC Plus",
-            "channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/amc_plus.png",
+            "channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/amc_plus.png",
             "channel_stream": [
                 {
                      "video_quality": "1080p",
-                    "stream_link": "http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/58472"
+                    "stream_link": "http://starshare.live:8080/live/Hanny/Hanny/142160.ts"
                 }
             ]
         },
         {
             "channel_name": "Animal Planet",
-            "channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/animal_planet.png",
+            "channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/animal_planet.png",
             "channel_stream": [
                 {
                      "video_quality": "720p",
-                    "stream_link": "http://gamsgo.cyou:8080/kodicologne/48e237edd2/6329"
+                    "stream_link": "http://starshare.live:8080/live/Hanny/Hanny/950.ts"
                 }
             ]
         },
         {
             "channel_name": "BBC America",
-            "channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/bbc_am.png",
+            "channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/bbc_am.png",
             "channel_stream": [
                 {
                      "video_quality": "1080p",
-                    "stream_link": "http://gamsgo.cyou:8080/kodicologne/48e237edd2/2277"
+                    "stream_link": "http://starshare.live:8080/live/Hanny/Hanny/23843.ts"
                 }
             ]
         },
         {
             "channel_name": "BET Gospel",
-            "channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/bet_gosp.png",
+            "channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/bet_gosp.png",
             "channel_stream": [
                 {
                      "video_quality": "540p",
-                    "stream_link": "http://starshare.live:8080/live/654shabbir56/55356346777/154286.ts"
+                    "stream_link": "http://starshare.live:8080/live/Hanny/Hanny/154286.ts"
                 }
             ]
         },
         {
             "channel_name": "BET Her",
-            "channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/bet_her.png",
+            "channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/bet_her.png",
             "channel_stream": [
                 {
-                     "video_quality": "576p",
-                    "stream_link": "http://gamsgo.cyou:8080/kodicologne/48e237edd2/15898"
+                     "video_quality": "1080p",
+                    "stream_link": "http://starshare.live:8080/live/Hanny/Hanny/154289.ts"
                 }
             ]
         },
         {
             "channel_name": "BET Jams",
-            "channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/bet_jams.png",
+            "channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/bet_jams.png",
             "channel_stream": [
                 {
-                     "video_quality": "360p",
-                    "stream_link": "http://gamsgo.cyou:8080/kodicologne/48e237edd2/30936"
+                     "video_quality": "432p",
+                    "stream_link": "http://starshare.live:8080/live/Hanny/Hanny/154401.ts"
                 }
             ]
         },
         {
             "channel_name": "BET Soul",
-            "channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/bet_soul.png",
+            "channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/bet_soul.png",
             "channel_stream": [
                 {
-                     "video_quality": "480p",
-                    "stream_link": "http://gamsgo.cyou:8080/kodicologne/48e237edd2/13006"
+                     "video_quality": "540p",
+                    "stream_link": "http://starshare.live:8080/live/Hanny/Hanny/154287.ts"
                 }
             ]
         },
         {
 			"channel_name": "E! Entertainment",
-			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/e.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/e.png",
 			"channel_stream": [
                 {
                     "video_quality": "720p",
-                    "stream_link": "http://gamsgo.cyou:8080/kodicologne/48e237edd2/2306"
+                    "stream_link": "http://starshare.live:8080/live/Hanny/Hanny/158007.ts"
                 }
 			]
 		},
 		{
 			"channel_name": "Freeform",
-			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/freeform.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/freeform.png",
 			"channel_stream": [
                 {
                     "video_quality": "720p",
-                    "stream_link": "http://gamsgo.cyou:8080/kodicologne/48e237edd2/2329"
+                    "stream_link": "http://starshare.live:8080/live/Hanny/Hanny/154363.ts"
                 }
 			]
 		},
 		{
 			"channel_name": "FX",
-			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/fx.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/fx.png",
 			"channel_stream": [
                 {
-                    "video_quality": "540p",
-                    "stream_link": "http://gamsgo.cyou:8080/kodicologne/48e237edd2/758"
+                    "video_quality": "720p",
+                    "stream_link": "http://starshare.live:8080/live/Hanny/Hanny/7356.ts"
                 }
 			]
 		},
 		{
 			"channel_name": "FXX",
-			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/fxx.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/fxx.png",
 			"channel_stream": [
                 {
                     "video_quality": "720p",
-                    "stream_link": "http://gamsgo.cyou:8080/kodicologne/48e237edd2/2330"
+                    "stream_link": "http://starshare.live:8080/live/Hanny/Hanny/7351.ts"
                 }
 			]
 		},
 		{
 			"channel_name": "MTV Live",
-			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/mtv_live.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/mtv_live.png",
 			"channel_stream": [
                 {
                     "video_quality": "720p",
-                    "stream_link": "http://gamsgo.cyou:8080/kodicologne/48e237edd2/9047"
+                    "stream_link": "http://starshare.live:8080/live/Hanny/Hanny/3405.ts"
                 }
 			]
 		},
 		{
 			"channel_name": "MTV U",
-			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/mtv_u.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/mtv_u.png",
 			"channel_stream": [
                 {
                     "video_quality": "480p",
-                    "stream_link": "http://gamsgo.cyou:8080/kodicologne/48e237edd2/57018"
+                    "stream_link": "http://starshare.live:8080/live/Hanny/Hanny/3406.ts"
                 }
 			]
 		},
         {
 			"channel_name": "Paramount",
-			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/paramount.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/paramount.png",
 			"channel_stream": [
 				{
 					"video_quality": "576p",
-					"stream_link": "http://gamsgo.cyou:8080/kodicologne/48e237edd2/14839"
+					"stream_link": "http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/14839"
 				}
 			]
 		},
 		{
 			"channel_name": "PBS",
-			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/pbs.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/pbs.png",
 			"channel_stream": [
 				{
-					"video_quality": "720p",
-					"stream_link": "http://gamsgo.cyou:8080/kodicologne/48e237edd2/11720"
+					"video_quality": "1080p",
+					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/154156.ts"
 				}
 			]
 		},
 		{
 			"channel_name": "Sundance",
-			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/sundance.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/sundance.png",
 			"channel_stream": [
 				{
 					"video_quality": "720p",
-					"stream_link": "http://gamsgo.cyou:8080/kodicologne/48e237edd2/2358"
+					"stream_link": "http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/2358"
 				}
 			]
 		},
 		{
 			"channel_name": "SYFY",
-			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/syfy.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/syfy.png",
 			"channel_stream": [
 				{
-					"video_quality": "720p",
-					"stream_link": "http://gamsgo.cyou:8080/kodicologne/48e237edd2/2359"
+					"video_quality": "1080p",
+					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/154173.ts"
 				}
 			]
 		},
 		{
 			"channel_name": "TBS",
-			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/tbs.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/tbs.png",
 			"channel_stream": [
 				{
 					"video_quality": "1080p",
-					"stream_link": "http://gamsgo.cyou:8080/kodicologne/48e237edd2/295674"
+					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/1009.ts"
 				}
 			]
 		},
         {
 			"channel_name": "TLC",
-			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/tlc.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/tlc.png",
 			"channel_stream": [
 				{
-					"video_quality": "1080p",
-					"stream_link": "http://gamsgo.cyou:8080/kodicologne/48e237edd2/2362"
+					"video_quality": "720p",
+					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/36.ts"
 				}
 			]
 		},
         {
 			"channel_name": "TNT",
-			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/tnt.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/tnt.png",
 			"channel_stream": [
 				{
 					"video_quality": "1080p",
-					"stream_link": "http://gamsgo.cyou:8080/kodicologne/48e237edd2/769"
+					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/7349.ts"
 				}
 			]
 		},
         {
 			"channel_name": "USA",
-			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/usa.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/usa.png",
 			"channel_stream": [
 				{
 					"video_quality": "1080p",
-					"stream_link": "http://gamsgo.cyou:8080/kodicologne/48e237edd2/3390"
+					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/47.ts"
 				}
 			]
 		},
         {
 			"channel_name": "VH1",
-			"channel_logo": "https://raw.githubusercontent.com/BeamlakAschalew/cinemax_live_channels/master/channel_images/vh1.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/vh1.png",
 			"channel_stream": [
 				{
 					"video_quality": "1080p",
-					"stream_link": "http://gamsgo.cyou:8080/kodicologne/48e237edd2/2370"
+					"stream_link": "http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/2370"
 				}
 			]
 		}
