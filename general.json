@@ -3,101 +3,141 @@
 	"channels": [
         {
 			"channel_name": "Food network",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/food.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/food.png",
 			"channel_stream": [
 				{
 					"video_quality": "1080p",
-					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/3364.ts"
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/2315"
 				}
 			]
 		},
         {
 			"channel_name": "History",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/history.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/history.png",
 			"channel_stream": [
 				{
 					"video_quality": "1080p",
-					"stream_link": "http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/761"
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/761"
+				}
+			]
+		},
+		{
+			"channel_name": "History 2",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/history2.png",
+			"channel_stream": [
+				{
+					"video_quality": "720p",
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/6310"
+				}
+			]
+		},
+		{
+			"channel_name": "Cooking channel",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/cookingchannel.png",
+			"channel_stream": [
+				{
+					"video_quality": "720p",
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/2297"
+				}
+			]
+		},
+		{
+			"channel_name": "Court TV",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/courttv.png",
+			"channel_stream": [
+				{
+					"video_quality": "576p",
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/150727"
 				}
 			]
 		},
         {
 			"channel_name": "Discovery",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/discovery.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/discovery.png",
 			"channel_stream": [
                 {
                     "video_quality": "1080p",
-                    "stream_link": "http://starshare.live:8080/live/Hanny/Hanny/3399.ts"
+                    "stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/23301"
                 }
 			]
 		},
 		{
 			"channel_name": "Discovery Life",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/discovery_life.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/discovery_life.png",
 			"channel_stream": [
                 {
-                    "video_quality": "720p",
-                    "stream_link": "http://starshare.live:8080/live/Hanny/Hanny/3401.ts"
+                    "video_quality": "576p",
+                    "stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/201208"
                 }
 			]
 		},
 		{
 			"channel_name": "Discovery Science",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/discovery_science.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/discovery_science.png",
 			"channel_stream": [
                 {
                     "video_quality": "1080p",
-                    "stream_link": "http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/2301"
+                    "stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/2301"
                 }
 			]
 		},
 		{
 			"channel_name": "Discovery Turbo",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/discovery_turbo.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/discovery_turbo.png",
 			"channel_stream": [
 				{
 					"video_quality": "576p",
-					"stream_link": "http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/1114"
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/1114"
+				}
+			]
+		},
+		{
+			"channel_name": "Discovery Velocity",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/discovery_velocity.png",
+			"channel_stream": [
+				{
+					"video_quality": "720p",
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/2302"
 				}
 			]
 		},
 		{
 			"channel_name": "Discovery World",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/discovery_world.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/discovery_world.png",
 			"channel_stream": [
 				{
 					"video_quality": "720p",
-					"stream_link": "http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/755"
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/755"
 				}
 			]
 		},
         {
 			"channel_name": "National Geographic",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/ng.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/ng.png",
 			"channel_stream": [
 				{
 					"video_quality": "720p",
-					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/17.ts"
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/749"
 				}
 			]
 		},
         {
 			"channel_name": "National Geographic Wild",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/ng_wild.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/ng_wild.png",
 			"channel_stream": [
 				{
 					"video_quality": "720p",
-					"stream_link": "http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/6503"
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/6503"
 				}
 			]
 		},
 		{
 			"channel_name": "Oxygen true crime",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/oxygen.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/oxygen.png",
 			"channel_stream": [
 				{
 					"video_quality": "576p",
-					"stream_link": "http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/6378"
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/6378"
 				}
 			]
 		}

@@ -3,7 +3,7 @@
 	"channels": [
 		{
 			"channel_name": "Trace Urban",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/trace_urban.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/trace_urban.png",
 			"channel_stream": [
 				{
 					"video_quality": "Multiple resolutions",
@@ -13,47 +13,47 @@
 		},
 		{
 			"channel_name": "GEM 24B",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/gem24b.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/gem24b.png",
 			"channel_stream": [
 				{
 					"video_quality": "720p",
-					"stream_link": "http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/166809"
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/166809"
 				}
 			]
 		},
 		{
 			"channel_name": "MTV Classic",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/mtv_classic.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/mtv_classic.png",
 			"channel_stream": [
 				{
-					"video_quality": "720p",
-					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/3404.ts"
+					"video_quality": "480p",
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/290680"
 				}
 			]
 		},
 		{
 			"channel_name": "MTV Hits",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/mtv_hits.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/mtv_hits.png",
 			"channel_stream": [
 				{
-					"video_quality": "576p",
-					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/5812.ts"
+					"video_quality": "574p",
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/4736"
 				}
 			]
 		},
 		{
 			"channel_name": "MTV Music",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/mtv_music.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/mtv_music.png",
 			"channel_stream": [
 				{
-					"video_quality": "576p",
-					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/5810.ts"
+					"video_quality": "720p",
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/282262"
 				}
 			]
 		},
         {
 			"channel_name": "MTV Club",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/mtv_club.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/mtv_club.png",
 			"channel_stream": [
 				{
 					"video_quality": "574p",
@@ -63,7 +63,7 @@
 		},
         {
 			"channel_name": "MTV 00's",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/m00s.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/m00s.png",
 			"channel_stream": [
 				{
 					"video_quality": "574p",
@@ -73,7 +73,7 @@
 		},
         {
 			"channel_name": "MTV 90's",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/m90s.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/m90s.png",
 			"channel_stream": [
 				{
 					"video_quality": "574p",
@@ -83,7 +83,7 @@
 		},
         {
 			"channel_name": "MTV 80's",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/m80s.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/m80s.png",
 			"channel_stream": [
 				{
 					"video_quality": "574p",
@@ -93,7 +93,7 @@
 		},
         {
 			"channel_name": "Hits Music",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/shits.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/shits.png",
 			"channel_stream": [
 				{
 					"video_quality": "Multiple resolutions",
@@ -103,178 +103,178 @@
 		},
 		{
 			"channel_name": "Music Choice classic alternatives",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/music_choice.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/music_choice.png",
 			"channel_stream": [
 				{
 					"video_quality": "540p",
-					"stream_link": "http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/66103"
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/66103"
 				}
 			]
 		},
 		{
 			"channel_name": "Music Choice Tropicales",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/music_choice.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/music_choice.png",
 			"channel_stream": [
 				{
 					"video_quality": "540p",
-					"stream_link": "http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/148267"
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/148267"
 				}
 			]
 		},
 		{
 			"channel_name": "Music Choice Today's Country",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/music_choice.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/music_choice.png",
 			"channel_stream": [
 				{
 					"video_quality": "540p",
-					"stream_link": "http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/66076"
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/66076"
 				}
 			]
 		},
 		{
 			"channel_name": "Music Choice Hiphop and R&B",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/music_choice.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/music_choice.png",
 			"channel_stream": [
 				{
 					"video_quality": "540p",
-					"stream_link": "http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/66075"
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/66075"
 				}
 			]
 		},
 		{
 			"channel_name": "Music Choice Pop Hits",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/music_choice.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/music_choice.png",
 			"channel_stream": [
 				{
 					"video_quality": "540p",
-					"stream_link": "http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/66082"
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/66082"
 				}
 			]
 		},
 		{
 			"channel_name": "Music Choice Pop Latino",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/music_choice.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/music_choice.png",
 			"channel_stream": [
 				{
 					"video_quality": "540p",
-					"stream_link": "http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/66090"
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/66090"
 				}
 			]
 		},
 		{
 			"channel_name": "Music Choice R&B and Soul",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/music_choice.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/music_choice.png",
 			"channel_stream": [
 				{
 					"video_quality": "540p",
-					"stream_link": "http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/66079"
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/66079"
 				}
 			]
 		},
 		{
 			"channel_name": "Music Choice Rap",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/music_choice.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/music_choice.png",
 			"channel_stream": [
 				{
 					"video_quality": "540p",
-					"stream_link": "http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/63184"
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/63184"
 				}
 			]
 		},
 		{
 			"channel_name": "Music Choice Throwback jamz",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/music_choice.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/music_choice.png",
 			"channel_stream": [
 				{
 					"video_quality": "540p",
-					"stream_link": "http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/66100"
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/66100"
 				}
 			]
 		},
 		{
 			"channel_name": "Music Choice Country Today",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/music_choice.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/music_choice.png",
 			"channel_stream": [
 				{
 					"video_quality": "540p",
-					"stream_link": "http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/66076"
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/66076"
 				}
 			]
 		},
 		{
 			"channel_name": "Music Choice Toddler Tunes",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/music_choice.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/music_choice.png",
 			"channel_stream": [
 				{
 					"video_quality": "540p",
-					"stream_link": "http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/66099"
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/66099"
 				}
 			]
 		},
 		{
 			"channel_name": "Music Choice Y2K",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/music_choice.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/music_choice.png",
 			"channel_stream": [
 				{
 					"video_quality": "540p",
-					"stream_link": "http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/66088"
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/66088"
 				}
 			]
 		},
 		{
 			"channel_name": "Music Choice Max",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/music_choice.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/music_choice.png",
 			"channel_stream": [
 				{
 					"video_quality": "540p",
-					"stream_link": "http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/66084"
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/66084"
 				}
 			]
 		},
 		{
 			"channel_name": "Music Choice Pop and Country",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/music_choice.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/music_choice.png",
 			"channel_stream": [
 				{
 					"video_quality": "540p",
-					"stream_link": "http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/66083"
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/66083"
 				}
 			]
 		},
 		{
 			"channel_name": "Music Choice Hit List",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/music_choice.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/music_choice.png",
 			"channel_stream": [
 				{
 					"video_quality": "540p",
-					"stream_link": "http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/66074"
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/66074"
 				}
 			]
 		},
 		{
 			"channel_name": "Music Choice Kidz Bop",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/music_choice.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/music_choice.png",
 			"channel_stream": [
 				{
 					"video_quality": "540p",
-					"stream_link": "http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/66104"
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/66104"
 				}
 			]
 		},
 		{
 			"channel_name": "Music Choice Kidz only",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/music_choice.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/music_choice.png",
 			"channel_stream": [
 				{
 					"video_quality": "540p",
-					"stream_link": "http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/66105"
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/66105"
 				}
 			]
 		},
 
         {
 			"channel_name": "Stingray Hit List",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/shits.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/shits.png",
 			"channel_stream": [
 				{
 					"video_quality": "Multiple resolutions",

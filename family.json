@@ -3,17 +3,17 @@
 	"channels": [
         {
 			"channel_name": "Discovery Family",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/d_family.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/d_family.png",
 			"channel_stream": [
 				{
 					"video_quality": "720p",
-					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/3400.ts"
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/2300"
 				}
 			]
 		},
         {
 			"channel_name": "WildEarth",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/wildearth.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/wildearth.png",
 			"channel_stream": [
 				{
 					"video_quality": "720p",
@@ -23,111 +23,111 @@
 		},
         {
 			"channel_name": "Nick jr",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/nickjr.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/nickjr.png",
 			"channel_stream": [
 				{
 					"video_quality": "1080p",
-					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/38.ts"
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/14835"
 				}
 			]
 		},
         {
 			"channel_name": "Nickelodeon",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/nick.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/nick.png",
 			"channel_stream": [
 				{
 					"video_quality": "1080p",
-					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/37.ts"
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/764"
 				}
 			]
 		},
         {
 			"channel_name": "Cartoon Network",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/cn.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/cn.png",
 			"channel_stream": [
 				{
 					"video_quality": "1080p",
-					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/3365.ts"
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/2286"
 				}
 			]
 		},
         {
 			"channel_name": "Disney Channel",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/disney_channel.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/disney_channel.png",
 			"channel_stream": [
 				{
 					"video_quality": "720p",
-					"stream_link": "http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/2303"
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/2303"
 				}
 			]
 		},
 		{
 			"channel_name": "Disney XD",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/disney_xd.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/disney_xd.png",
 			"channel_stream": [
 				{
 					"video_quality": "720p",
-					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/3403.ts"
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/6395"
 				}
 			]
 		},
         {
 			"channel_name": "Nicktoons",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/nicktoons.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/nicktoons.png",
 			"channel_stream": [
 				{
 					"video_quality": "576p",
-					"stream_link": "http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/2351"
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/2351"
 				}
 			]
 		},
         {
 			"channel_name": "Boomerang",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/boomerang.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/boomerang.png",
 			"channel_stream": [
 				{
 					"video_quality": "1080p",
-					"stream_link": "http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/2281"
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/2281"
 				}
 			]
 		},
         {
 			"channel_name": "CBeebies",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/cebeebies.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/cebeebies.png",
 			"channel_stream": [
 				{
-					"video_quality": "720p",
-					"stream_link": "http://starshare.live:8080/live/Hanny/Hanny/26.ts"
+					"video_quality": "576p",
+					"stream_link": "http://iptvch.com:2082/hd8sif6CD3s93bdFk/l5Vk7fJ2cR5mS8b38j/16204"
 				}
 			]
 		},
         {
 			"channel_name": "Disney Junior",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/disney_junior.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/disney_junior.png",
 			"channel_stream": [
 				{
 					"video_quality": "720p",
-					"stream_link": "http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/8608"
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/8608"
 				}
 			]
 		},
         {
 			"channel_name": "PBS Kids",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/pbs_kids.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/pbs_kids.png",
 			"channel_stream": [
 				{
 					"video_quality": "720p",
-					"stream_link": "http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/14837"
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/14837"
 				}
 			]
 		},
 		{
 			"channel_name": "teen nick",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/teennick.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/teennick.png",
 			"channel_stream": [
 				{
 					"video_quality": "1080p",
-					"stream_link": "http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/15058"
+					"stream_link": "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/15058"
 				}
 			]
 		}
