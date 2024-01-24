@@ -3,7 +3,7 @@
 	"channels": [
         {
             "channel_name": "A&E",
-            "channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/aande.png",
+            "channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/aande.png",
             "channel_stream": [
                 {
                      "video_quality": "1080p",
@@ -13,7 +13,7 @@
         },
         {
             "channel_name": "ABC (NY)",
-            "channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/abc.png",
+            "channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/abc.png",
             "channel_stream": [
                 {
                      "video_quality": "720p",
@@ -23,7 +23,7 @@
         },
         {
             "channel_name": "AS",
-            "channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/as.png",
+            "channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/as.png",
             "channel_stream": [
                 {
                      "video_quality": "540p",
@@ -33,7 +33,7 @@
         },
         {
             "channel_name": "AMC",
-            "channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/amc.png",
+            "channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/amc.png",
             "channel_stream": [
                 {
                      "video_quality": "540p",
@@ -43,7 +43,7 @@
         },
         {
             "channel_name": "AMC Plus",
-            "channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/amc_plus.png",
+            "channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/amc_plus.png",
             "channel_stream": [
                 {
                      "video_quality": "1080p",
@@ -53,7 +53,7 @@
         },
         {
             "channel_name": "Animal Planet",
-            "channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/animal_planet.png",
+            "channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/animal_planet.png",
             "channel_stream": [
                 {
                      "video_quality": "720p",
@@ -63,7 +63,7 @@
         },
         {
             "channel_name": "BBC America",
-            "channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/bbc_am.png",
+            "channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/bbc_am.png",
             "channel_stream": [
                 {
                      "video_quality": "1080p",
@@ -73,7 +73,7 @@
         },
         {
             "channel_name": "BET Gospel",
-            "channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/bet_gosp.png",
+            "channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/bet_gosp.png",
             "channel_stream": [
                 {
                      "video_quality": "540p",
@@ -83,7 +83,7 @@
         },
         {
             "channel_name": "BET Her",
-            "channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/bet_her.png",
+            "channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/bet_her.png",
             "channel_stream": [
                 {
                      "video_quality": "576p",
@@ -93,7 +93,7 @@
         },
         {
             "channel_name": "BET Jams",
-            "channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/bet_jams.png",
+            "channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/bet_jams.png",
             "channel_stream": [
                 {
                      "video_quality": "360p",
@@ -103,7 +103,7 @@
         },
         {
             "channel_name": "BET Soul",
-            "channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/bet_soul.png",
+            "channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/bet_soul.png",
             "channel_stream": [
                 {
                      "video_quality": "480p",
@@ -113,7 +113,7 @@
         },
         {
             "channel_name": "Bounce TV",
-            "channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/bounce.png",
+            "channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/bounce.png",
             "channel_stream": [
                 {
                      "video_quality": "720p",
@@ -123,7 +123,7 @@
         },
         {
             "channel_name": "Bravo",
-            "channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/bravo.png",
+            "channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/bravo.png",
             "channel_stream": [
                 {
                      "video_quality": "720p",
@@ -133,7 +133,7 @@
         },
         {
 			"channel_name": "Cine Life",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/cinelife.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/cinelife.png",
 			"channel_stream": [
 				{
 					"video_quality": "720p",
@@ -143,7 +143,7 @@
 		},
         {
 			"channel_name": "Cinemax",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/cinemax.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/cinemax.png",
 			"channel_stream": [
 				{
 					"video_quality": "1080p",
@@ -153,7 +153,7 @@
 		},
         {
 			"channel_name": "Comet",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/comet.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/comet.png",
 			"channel_stream": [
 				{
 					"video_quality": "720p",
@@ -163,7 +163,7 @@
 		},
         {
 			"channel_name": "Comedy Central (US)",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/comedy_central.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/comedy_central.png",
 			"channel_stream": [
 				{
 					"video_quality": "576p",
@@ -173,7 +173,7 @@
 		},
         {
             "channel_name": "BET",
-            "channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/bet.png",
+            "channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/bet.png",
             "channel_stream": [
                 {
                     "video_quality": "1080p",
@@ -183,7 +183,7 @@
         },
         {
 			"channel_name": "E! Entertainment",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/e.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/e.png",
 			"channel_stream": [
                 {
                     "video_quality": "720p",
@@ -193,7 +193,7 @@
 		},
 		{
 			"channel_name": "Freeform",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/freeform.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/freeform.png",
 			"channel_stream": [
                 {
                     "video_quality": "720p",
@@ -203,7 +203,7 @@
 		},
 		{
 			"channel_name": "FX",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/fx.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/fx.png",
 			"channel_stream": [
                 {
                     "video_quality": "540p",
@@ -213,7 +213,7 @@
 		},
 		{
 			"channel_name": "FXX",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/fxx.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/fxx.png",
 			"channel_stream": [
                 {
                     "video_quality": "720p",
@@ -224,7 +224,7 @@
         
         {
             "channel_name": "Lifetime",
-            "channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/lifetime.png",
+            "channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/lifetime.png",
             "channel_stream": [
                 {
                      "video_quality": "1080p",
@@ -234,7 +234,7 @@
         },
         {
             "channel_name": "MTV",
-            "channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/mtv.png",
+            "channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/mtv.png",
             "channel_stream": [
                 {
                      "video_quality": "720p",
@@ -245,7 +245,7 @@
         
 		{
 			"channel_name": "MTV Live",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/mtv_live.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/mtv_live.png",
 			"channel_stream": [
                 {
                     "video_quality": "720p",
@@ -255,7 +255,7 @@
 		},
 		{
 			"channel_name": "MTV U",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/mtv_u.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/mtv_u.png",
 			"channel_stream": [
                 {
                     "video_quality": "480p",
@@ -265,7 +265,7 @@
 		},
         {
 			"channel_name": "Paramount",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/paramount.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/paramount.png",
 			"channel_stream": [
 				{
 					"video_quality": "576p",
@@ -275,7 +275,7 @@
 		},
 		{
 			"channel_name": "PBS",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/pbs.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/pbs.png",
 			"channel_stream": [
 				{
 					"video_quality": "720p",
@@ -285,7 +285,7 @@
 		},
 		{
 			"channel_name": "Sundance",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/sundance.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/sundance.png",
 			"channel_stream": [
 				{
 					"video_quality": "720p",
@@ -295,7 +295,7 @@
 		},
 		{
 			"channel_name": "SYFY",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/syfy.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/syfy.png",
 			"channel_stream": [
 				{
 					"video_quality": "720p",
@@ -305,7 +305,7 @@
 		},
 		{
 			"channel_name": "TBS",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/tbs.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/tbs.png",
 			"channel_stream": [
 				{
 					"video_quality": "1080p",
@@ -315,7 +315,7 @@
 		},
         {
 			"channel_name": "TLC",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/tlc.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/tlc.png",
 			"channel_stream": [
 				{
 					"video_quality": "1080p",
@@ -325,7 +325,7 @@
 		},
         {
 			"channel_name": "TNT",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/tnt.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/tnt.png",
 			"channel_stream": [
 				{
 					"video_quality": "1080p",
@@ -335,7 +335,7 @@
 		},
         {
 			"channel_name": "USA",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/usa.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/usa.png",
 			"channel_stream": [
 				{
 					"video_quality": "1080p",
@@ -345,7 +345,7 @@
 		},
         {
 			"channel_name": "VH1",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/vh1.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/vh1.png",
 			"channel_stream": [
 				{
 					"video_quality": "1080p",

@@ -3,7 +3,7 @@
 	"channels": [
         {
 			"channel_name": "Food network",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/food.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/food.png",
 			"channel_stream": [
 				{
 					"video_quality": "1080p",
@@ -13,7 +13,7 @@
 		},
         {
 			"channel_name": "History",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/history.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/history.png",
 			"channel_stream": [
 				{
 					"video_quality": "1080p",
@@ -23,7 +23,7 @@
 		},
 		{
 			"channel_name": "History 2",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/history2.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/history2.png",
 			"channel_stream": [
 				{
 					"video_quality": "720p",
@@ -33,7 +33,7 @@
 		},
 		{
 			"channel_name": "Cooking channel",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/cookingchannel.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/cookingchannel.png",
 			"channel_stream": [
 				{
 					"video_quality": "720p",
@@ -43,7 +43,7 @@
 		},
 		{
 			"channel_name": "Court TV",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/courttv.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/courttv.png",
 			"channel_stream": [
 				{
 					"video_quality": "576p",
@@ -53,7 +53,7 @@
 		},
         {
 			"channel_name": "Discovery",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/discovery.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/discovery.png",
 			"channel_stream": [
                 {
                     "video_quality": "1080p",
@@ -63,7 +63,7 @@
 		},
 		{
 			"channel_name": "Discovery Life",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/discovery_life.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/discovery_life.png",
 			"channel_stream": [
                 {
                     "video_quality": "576p",
@@ -73,7 +73,7 @@
 		},
 		{
 			"channel_name": "Discovery Science",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/discovery_science.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/discovery_science.png",
 			"channel_stream": [
                 {
                     "video_quality": "1080p",
@@ -83,7 +83,7 @@
 		},
 		{
 			"channel_name": "Discovery Turbo",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/discovery_turbo.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/discovery_turbo.png",
 			"channel_stream": [
 				{
 					"video_quality": "576p",
@@ -93,7 +93,7 @@
 		},
 		{
 			"channel_name": "Discovery Velocity",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/discovery_velocity.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/discovery_velocity.png",
 			"channel_stream": [
 				{
 					"video_quality": "720p",
@@ -103,7 +103,7 @@
 		},
 		{
 			"channel_name": "Discovery World",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/discovery_world.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/discovery_world.png",
 			"channel_stream": [
 				{
 					"video_quality": "720p",
@@ -113,7 +113,7 @@
 		},
         {
 			"channel_name": "National Geographic",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/ng.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/ng.png",
 			"channel_stream": [
 				{
 					"video_quality": "720p",
@@ -123,7 +123,7 @@
 		},
         {
 			"channel_name": "National Geographic Wild",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/ng_wild.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/ng_wild.png",
 			"channel_stream": [
 				{
 					"video_quality": "720p",
@@ -133,7 +133,7 @@
 		},
 		{
 			"channel_name": "Oxygen true crime",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/oxygen.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/oxygen.png",
 			"channel_stream": [
 				{
 					"video_quality": "576p",

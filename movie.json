@@ -3,7 +3,7 @@
 	"channels": [
 		{
 			"channel_name": "FX Movie channel",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/fxm.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/fxm.png",
 			"channel_stream": [
 				{
 					"video_quality": "720p",
@@ -13,7 +13,7 @@
 		},
 		{
 			"channel_name": "FXM Retro",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/fxmr.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/fxmr.png",
 			"channel_stream": [
 				{
 					"video_quality": "720p",
@@ -23,7 +23,7 @@
 		},
 		{
 			"channel_name": "Hallmark Channel",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/hallmark.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/hallmark.png",
 			"channel_stream": [
 				{
 					"video_quality": "720p",
@@ -33,7 +33,7 @@
 		},
 		{
 			"channel_name": "Hallmark Drama",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/hallmarkd.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/hallmarkd.png",
 			"channel_stream": [
 				{
 					"video_quality": "720p",
@@ -43,7 +43,7 @@
 		},
 		{
 			"channel_name": "Hallmark Movies & Mysteries",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/hallmarkmm.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/hallmarkmm.png",
 			"channel_stream": [
 				{
 					"video_quality": "720p",
@@ -53,7 +53,7 @@
 		},
 		{
 			"channel_name": "HBO",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/hbo.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/hbo.png",
 			"channel_stream": [
 				{
 					"video_quality": "1080p",
@@ -63,7 +63,7 @@
 		},
 		{
 			"channel_name": "HBO 2",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/hbo2.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/hbo2.png",
 			"channel_stream": [
 				{
 					"video_quality": "540p",
@@ -73,7 +73,7 @@
 		},
 		{
 			"channel_name": "HBO Comedy",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/hboc.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/hboc.png",
 			"channel_stream": [
 				{
 					"video_quality": "540p",
@@ -83,7 +83,7 @@
 		},
 		{
 			"channel_name": "HBO Family",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/hbof.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/hbof.png",
 			"channel_stream": [
 				{
 					"video_quality": "1080p",
@@ -93,7 +93,7 @@
 		},
 		{
 			"channel_name": "HBO Signature",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/hbos.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/hbos.png",
 			"channel_stream": [
 				{
 					"video_quality": "1080p",
@@ -103,7 +103,7 @@
 		},
 		{
 			"channel_name": "HBO Zone",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/hboz.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/hboz.png",
 			"channel_stream": [
 				{
 					"video_quality": "1080p",
@@ -113,7 +113,7 @@
 		},
 		{
 			"channel_name": "HDNet Movies",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/hdnetm.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/hdnetm.png",
 			"channel_stream": [
 				{
 					"video_quality": "720p",

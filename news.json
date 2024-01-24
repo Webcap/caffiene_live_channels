@@ -3,7 +3,7 @@
 	"channels": [
         {
 			"channel_name": "ABC News",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/abc_news.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/abc_news.png",
 			"channel_stream": [
 				{
 					"video_quality": "720p",
@@ -13,7 +13,7 @@
 		},
         {
 			"channel_name": "Al Jazeera",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/alj.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/alj.png",
 			"channel_stream": [
 				{
 					"video_quality": "720p",
@@ -23,7 +23,7 @@
 		},
         {
 			"channel_name": "BBC World News",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/bbcwn.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/bbcwn.png",
 			"channel_stream": [
 				{
 					"video_quality": "540p",
@@ -33,7 +33,7 @@
 		},
 		{
 			"channel_name": "Bloomberg TV",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/bloomtv.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/bloomtv.png",
 			"channel_stream": [
 				{
 					"video_quality": "720p",
@@ -43,7 +43,7 @@
 		},
 		{
 			"channel_name": "CBS News",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/cbs.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/cbs.png",
 			"channel_stream": [
                 {
                     "video_quality": "720p",
@@ -53,7 +53,7 @@
 		},
 		{
 			"channel_name": "CNN",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/cnn.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/cnn.png",
 			"channel_stream": [
 				{
 					"video_quality": "720p",
@@ -63,7 +63,7 @@
 		},
         {
 			"channel_name": "CNBC",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/cnbc.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/cnbc.png",
 			"channel_stream": [
 				{
 					"video_quality": "540p",
@@ -73,7 +73,7 @@
 		},
         {
 			"channel_name": "CNBC World",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/cnbc_world.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/cnbc_world.png",
 			"channel_stream": [
 				{
 					"video_quality": "576p",
@@ -83,7 +83,7 @@
 		},
 		{
 			"channel_name": "FOX News",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/fox_news.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/fox_news.png",
 			"channel_stream": [
 				{
 					"video_quality": "720p",
@@ -93,7 +93,7 @@
 		},
 		{
 			"channel_name": "FOX Livenow",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/foxlive.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/foxlive.png",
 			"channel_stream": [
 				{
 					"video_quality": "720p",
@@ -103,7 +103,7 @@
 		},
 		{
 			"channel_name": "MSNBC",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/msnbc.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/msnbc.png",
 			"channel_stream": [
 				{
 					"video_quality": "720p",
@@ -113,7 +113,7 @@
 		},
         {
 			"channel_name": "Al Jazeera",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/alj.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/alj.png",
 			"channel_stream": [
 				{
 					"video_quality": "480p",
@@ -123,7 +123,7 @@
 		},
 		{
 			"channel_name": "Mereja TV",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/mereja.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/mereja.png",
 			"channel_stream": [
 				{
 					"video_quality": "auto",
@@ -133,7 +133,7 @@
 		},
 		{
 			"channel_name": "Walta TV",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/walta.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/walta.png",
 			"channel_stream": [
 				{
 					"video_quality": "720p",
@@ -143,7 +143,7 @@
 		},
 		{
 			"channel_name": "Addis TV",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/addis.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/addis.png",
 			"channel_stream": [
 				{
 					"video_quality": "720p",

@@ -3,7 +3,7 @@
 	"channels": [
         {
 			"channel_name": "Discovery Family",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/d_family.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/d_family.png",
 			"channel_stream": [
 				{
 					"video_quality": "720p",
@@ -13,7 +13,7 @@
 		},
         {
 			"channel_name": "WildEarth",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/wildearth.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/wildearth.png",
 			"channel_stream": [
 				{
 					"video_quality": "720p",
@@ -23,7 +23,7 @@
 		},
         {
 			"channel_name": "Nick jr",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/nickjr.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/nickjr.png",
 			"channel_stream": [
 				{
 					"video_quality": "1080p",
@@ -33,7 +33,7 @@
 		},
         {
 			"channel_name": "Nickelodeon",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/nick.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/nick.png",
 			"channel_stream": [
 				{
 					"video_quality": "1080p",
@@ -43,7 +43,7 @@
 		},
         {
 			"channel_name": "Cartoon Network",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/cn.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/cn.png",
 			"channel_stream": [
 				{
 					"video_quality": "1080p",
@@ -53,7 +53,7 @@
 		},
         {
 			"channel_name": "Disney Channel",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/disney_channel.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/disney_channel.png",
 			"channel_stream": [
 				{
 					"video_quality": "720p",
@@ -63,7 +63,7 @@
 		},
 		{
 			"channel_name": "Disney XD",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/disney_xd.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/disney_xd.png",
 			"channel_stream": [
 				{
 					"video_quality": "720p",
@@ -73,7 +73,7 @@
 		},
         {
 			"channel_name": "Nicktoons",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/nicktoons.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/nicktoons.png",
 			"channel_stream": [
 				{
 					"video_quality": "576p",
@@ -83,7 +83,7 @@
 		},
         {
 			"channel_name": "Boomerang",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/boomerang.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/boomerang.png",
 			"channel_stream": [
 				{
 					"video_quality": "1080p",
@@ -93,7 +93,7 @@
 		},
         {
 			"channel_name": "CBeebies",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/cebeebies.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/cebeebies.png",
 			"channel_stream": [
 				{
 					"video_quality": "576p",
@@ -103,7 +103,7 @@
 		},
         {
 			"channel_name": "Disney Junior",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/disney_junior.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/disney_junior.png",
 			"channel_stream": [
 				{
 					"video_quality": "720p",
@@ -113,7 +113,7 @@
 		},
         {
 			"channel_name": "PBS Kids",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/pbs_kids.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/pbs_kids.png",
 			"channel_stream": [
 				{
 					"video_quality": "720p",
@@ -123,7 +123,7 @@
 		},
 		{
 			"channel_name": "teen nick",
-			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/channel_images/teennick.png",
+			"channel_logo": "https://raw.githubusercontent.com/Webcap/caffiene_live_channels/main/channel_images/teennick.png",
 			"channel_stream": [
 				{
 					"video_quality": "1080p",
